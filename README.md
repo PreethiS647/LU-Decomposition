@@ -28,7 +28,7 @@ print(U)
 
 (ii) To find the LU Decomposition of a matrix
 ```
-mport numpy as np
+import numpy as np
 from scipy.linalg import lu_factor, lu_solve
 A=np.array(eval(input()))
 b=np.array(eval(input()))
@@ -40,6 +40,7 @@ print(x)
 
 
 ## Output:
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
